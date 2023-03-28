@@ -15,6 +15,7 @@ O projeto Alarme é uma aplicação web que permite adicionar e configurar alarm
 ## ⚙️ Estrutura
 
 - **img:** Contém imagens utilizadas no projeto e para apresentação no Readme.md;
+- **song:** Arquivo MP3 "Cuco", alarme de exemplo que coloquei para execução do toque do alarme;
 - **index.html:** Contém a linguagem de marcação usada para estruturar e apresentar o conteúdo da página;
 - **style.css:** Contém regras de estilo que são usadas para personalizar a aparência da página HTML. Ele inclui configurações de fonte, cor de fundo, posicionamento e tamanho de elementos, e outras propriedades de estilo para tornar a página mais atraente e fácil de usar.
 - **script.js:** Responsável por todas as funcionalidades e interações do usuário. Ele manipula o DOM para exibir e atualizar a interface do usuário, armazena e gerencia as informações do alarme em um array, manipula o áudio do alarme e implementa a lógica do temporizador que exibe a hora atual e aciona os alarmes definidos pelo usuário.
